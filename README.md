@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile
 
-I am a fourth-year PhD Candidate in Economics at The London School of Economics and Political Sciences.
+I am a fourth-year PhD Candidate in Economics at The London School of Economics and Political Science.
 
 I am a macroeconomist working on growth and inequality.
 
